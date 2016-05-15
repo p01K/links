@@ -12,7 +12,9 @@ Set of interesting links about Scala, Apache Spark, n Machine learning
 
 *[native-scala](https://github.com/scala-native/scala-native) //running native code in scala applications
 
-*something else
+*[Neophytes guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+
+*[Breeze linear algebra cheat sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet)
 
 ##Apache Spark
 *[RDD](http://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.rdd.RDD)
@@ -20,3 +22,9 @@ Set of interesting links about Scala, Apache Spark, n Machine learning
 
 ##Machine Learning
 *[neural networks](http://neuralnetworksanddeeplearning.com/)
+
+*[UCI repository](http://archive.ics.uci.edu/ml/)
+
+#Linux
+
+*[Arch linux pacman tips and tricks](https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks)
