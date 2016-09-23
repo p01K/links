@@ -3,7 +3,7 @@
 
 Set of interesting links about Scala, Apache Spark, n Machine learning
 
-##Scala
+## Scala
 *[Scala puzzlers](http://scalapuzzlers.com)
 
 *[Strategic Scala style](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
@@ -16,15 +16,24 @@ Set of interesting links about Scala, Apache Spark, n Machine learning
 
 *[Breeze linear algebra cheat sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet)
 
-##Apache Spark
+## Apache Spark
+*[Spark News](https://sparkhub.databricks.com/)
+
 *[RDD](http://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.rdd.RDD)
 
+## Rust
 
-##Machine Learning
+*[Rust by example](http://rustbyexample.com/)
+
+*[Servo](https://servo.org/)
+
+*[Leaf](https://github.com/autumnai/leaf)
+
+## Machine Learning
 *[neural networks](http://neuralnetworksanddeeplearning.com/)
 
 *[UCI repository](http://archive.ics.uci.edu/ml/)
 
-#Linux
+# Linux
 
 *[Arch linux pacman tips and tricks](https://wiki.archlinux.org/index.php/Pacman/Tips_and_tricks)
